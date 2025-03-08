@@ -57,12 +57,12 @@ This is the Catalog Management project built with Spring Boot. It provides APIs 
 - DELETE /api/variants/{id}: Delete a variant by ID
 
 ### JSON Examples
--  JSON for Catalogs
+-  JSON for Catalogs : 
 {
     "name": "Footwares",
     "description": "Stylish and comfortable"
 }
-- JSON for Products
+- JSON for Products : 
 {
     "name": "New Sneakers",
     "description": "Stylish and comfortable new sneakers",
@@ -83,7 +83,7 @@ This is the Catalog Management project built with Spring Boot. It provides APIs 
         }
     ]
 }
-- JSON for Variants
+- JSON for Variants : 
 {
     "name": "Green Sneakers",
     "description": "Green colored sneakers",
